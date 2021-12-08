@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<DictionaryItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Items>
+    <DictionaryData>
+      <Key>Hello</Key>
+      <Meaning>Xin chào</Meaning>
+      <Explaination>Từ mang ý nghĩa chào hỏi. Có thể dùng mỗi khi gặp một ai đó.</Explaination>
+    </DictionaryData>
+    <DictionaryData>
+      <Key>Goodbye</Key>
+      <Meaning>Chào tạm biệt</Meaning>
+      <Explaination>Từ mang ý nghĩa chào tạm biệt. Có thể dùng mỗi khi tạm biệt một ai đó.</Explaination>
+    </DictionaryData>
+    <DictionaryData>
+      <Key>Goodnight</Key>
+      <Meaning>Chúc ngủ ngon</Meaning>
+      <Explaination>Từ mang ý nghĩa chúc người khác ngủ ngon. Thường dùng để nói với người khác trước khi đi ngủ.</Explaination>
+    </DictionaryData>
+    <DictionaryData>
+      <Key>Dictionary</Key>
+      <Meaning>Từ điển</Meaning>
+      <Explaination>Một loại sách chứa các cặp giá trị từ khóa (key) và ý nghĩa (value). Thường dùng cho việc tra nghĩa của từ vựng.</Explaination>
+    </DictionaryData>
+    <DictionaryData>
+      <Key>Sun flower</Key>
+      <Meaning>Hoa hướng dương</Meaning>
+      <Explaination>Một loài hoa luôn hướng về phía mặt trời.</Explaination>
+    </DictionaryData>
+    <DictionaryData>
+      <Key>Pea</Key>
+      <Meaning>Đậu Hà Lan</Meaning>
+      <Explaination>Một loại đậu có nguồn gốc từ Hà Lan.</Explaination>
+    </DictionaryData>
+  </Items>
+</DictionaryItem>

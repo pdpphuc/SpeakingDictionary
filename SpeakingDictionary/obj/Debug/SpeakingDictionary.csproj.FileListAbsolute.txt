@@ -1,0 +1,40 @@
+D:\Projects\K Team\Từ điển nói - C# Winform\SpeakingDictionary\SpeakingDictionary\bin\Debug\SpeakingDictionary.exe.config
+D:\Projects\K Team\Từ điển nói - C# Winform\SpeakingDictionary\SpeakingDictionary\bin\Debug\SpeakingDictionary.exe
+D:\Projects\K Team\Từ điển nói - C# Winform\SpeakingDictionary\SpeakingDictionary\bin\Debug\SpeakingDictionary.pdb
+D:\Projects\K Team\Từ điển nói - C# Winform\SpeakingDictionary\SpeakingDictionary\obj\Debug\SpeakingDictionary.csprojAssemblyReference.cache
+D:\Projects\K Team\Từ điển nói - C# Winform\SpeakingDictionary\SpeakingDictionary\obj\Debug\SpeakingDictionary.Properties.Resources.resources
+D:\Projects\K Team\Từ điển nói - C# Winform\SpeakingDictionary\SpeakingDictionary\obj\Debug\SpeakingDictionary.csproj.GenerateResource.cache
+D:\Projects\K Team\Từ điển nói - C# Winform\SpeakingDictionary\SpeakingDictionary\obj\Debug\SpeakingDictionary.csproj.CoreCompileInputs.cache
+D:\Projects\K Team\Từ điển nói - C# Winform\SpeakingDictionary\SpeakingDictionary\obj\Debug\SpeakingDictionary.exe
+D:\Projects\K Team\Từ điển nói - C# Winform\SpeakingDictionary\SpeakingDictionary\obj\Debug\SpeakingDictionary.pdb
+D:\Projects\K Team\Từ điển nói - C# Winform\SpeakingDictionary\SpeakingDictionary\obj\Debug\SpeakingDictionary.Form1.resources
+D:\My Apps\My Apps\SpeakingDictionary\SpeakingDictionary\bin\Debug\SpeakingDictionary.exe.config
+D:\My Apps\My Apps\SpeakingDictionary\SpeakingDictionary\bin\Debug\SpeakingDictionary.exe
+D:\My Apps\My Apps\SpeakingDictionary\SpeakingDictionary\bin\Debug\SpeakingDictionary.pdb
+D:\My Apps\My Apps\SpeakingDictionary\SpeakingDictionary\obj\Debug\SpeakingDictionary.csprojAssemblyReference.cache
+D:\My Apps\My Apps\SpeakingDictionary\SpeakingDictionary\obj\Debug\SpeakingDictionary.Form1.resources
+D:\My Apps\My Apps\SpeakingDictionary\SpeakingDictionary\obj\Debug\SpeakingDictionary.Properties.Resources.resources
+D:\My Apps\My Apps\SpeakingDictionary\SpeakingDictionary\obj\Debug\SpeakingDictionary.csproj.GenerateResource.cache
+D:\My Apps\My Apps\SpeakingDictionary\SpeakingDictionary\obj\Debug\SpeakingDictionary.csproj.CoreCompileInputs.cache
+D:\My Apps\My Apps\SpeakingDictionary\SpeakingDictionary\obj\Debug\SpeakingDictionary.exe
+D:\My Apps\My Apps\SpeakingDictionary\SpeakingDictionary\obj\Debug\SpeakingDictionary.pdb
+D:\My Apps\Data\SpeakingDictionary\SpeakingDictionary\bin\Debug\SpeakingDictionary.exe.config
+D:\My Apps\Data\SpeakingDictionary\SpeakingDictionary\bin\Debug\SpeakingDictionary.exe
+D:\My Apps\Data\SpeakingDictionary\SpeakingDictionary\bin\Debug\SpeakingDictionary.pdb
+D:\My Apps\Data\SpeakingDictionary\SpeakingDictionary\obj\Debug\SpeakingDictionary.csprojAssemblyReference.cache
+D:\My Apps\Data\SpeakingDictionary\SpeakingDictionary\obj\Debug\SpeakingDictionary.Form1.resources
+D:\My Apps\Data\SpeakingDictionary\SpeakingDictionary\obj\Debug\SpeakingDictionary.Properties.Resources.resources
+D:\My Apps\Data\SpeakingDictionary\SpeakingDictionary\obj\Debug\SpeakingDictionary.csproj.GenerateResource.cache
+D:\My Apps\Data\SpeakingDictionary\SpeakingDictionary\obj\Debug\SpeakingDictionary.csproj.CoreCompileInputs.cache
+D:\My Apps\Data\SpeakingDictionary\SpeakingDictionary\obj\Debug\SpeakingDictionary.exe
+D:\My Apps\Data\SpeakingDictionary\SpeakingDictionary\obj\Debug\SpeakingDictionary.pdb
+D:\Projects\Data\SpeakingDictionary\SpeakingDictionary\bin\Debug\SpeakingDictionary.exe.config
+D:\Projects\Data\SpeakingDictionary\SpeakingDictionary\bin\Debug\SpeakingDictionary.exe
+D:\Projects\Data\SpeakingDictionary\SpeakingDictionary\bin\Debug\SpeakingDictionary.pdb
+D:\Projects\Data\SpeakingDictionary\SpeakingDictionary\obj\Debug\SpeakingDictionary.csprojAssemblyReference.cache
+D:\Projects\Data\SpeakingDictionary\SpeakingDictionary\obj\Debug\SpeakingDictionary.Form1.resources
+D:\Projects\Data\SpeakingDictionary\SpeakingDictionary\obj\Debug\SpeakingDictionary.Properties.Resources.resources
+D:\Projects\Data\SpeakingDictionary\SpeakingDictionary\obj\Debug\SpeakingDictionary.csproj.GenerateResource.cache
+D:\Projects\Data\SpeakingDictionary\SpeakingDictionary\obj\Debug\SpeakingDictionary.csproj.CoreCompileInputs.cache
+D:\Projects\Data\SpeakingDictionary\SpeakingDictionary\obj\Debug\SpeakingDictionary.exe
+D:\Projects\Data\SpeakingDictionary\SpeakingDictionary\obj\Debug\SpeakingDictionary.pdb

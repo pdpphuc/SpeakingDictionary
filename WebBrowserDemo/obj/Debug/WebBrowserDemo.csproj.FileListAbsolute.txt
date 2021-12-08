@@ -1,0 +1,10 @@
+D:\Projects\K Team\Từ điển nói - C# Winform\SpeakingDictionary\WebBrowserDemo\bin\Debug\WebBrowserDemo.exe.config
+D:\Projects\K Team\Từ điển nói - C# Winform\SpeakingDictionary\WebBrowserDemo\bin\Debug\WebBrowserDemo.exe
+D:\Projects\K Team\Từ điển nói - C# Winform\SpeakingDictionary\WebBrowserDemo\bin\Debug\WebBrowserDemo.pdb
+D:\Projects\K Team\Từ điển nói - C# Winform\SpeakingDictionary\WebBrowserDemo\obj\Debug\WebBrowserDemo.csprojAssemblyReference.cache
+D:\Projects\K Team\Từ điển nói - C# Winform\SpeakingDictionary\WebBrowserDemo\obj\Debug\WebBrowserDemo.Form1.resources
+D:\Projects\K Team\Từ điển nói - C# Winform\SpeakingDictionary\WebBrowserDemo\obj\Debug\WebBrowserDemo.Properties.Resources.resources
+D:\Projects\K Team\Từ điển nói - C# Winform\SpeakingDictionary\WebBrowserDemo\obj\Debug\WebBrowserDemo.csproj.GenerateResource.cache
+D:\Projects\K Team\Từ điển nói - C# Winform\SpeakingDictionary\WebBrowserDemo\obj\Debug\WebBrowserDemo.csproj.CoreCompileInputs.cache
+D:\Projects\K Team\Từ điển nói - C# Winform\SpeakingDictionary\WebBrowserDemo\obj\Debug\WebBrowserDemo.exe
+D:\Projects\K Team\Từ điển nói - C# Winform\SpeakingDictionary\WebBrowserDemo\obj\Debug\WebBrowserDemo.pdb
